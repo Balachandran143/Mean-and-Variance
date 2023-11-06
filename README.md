@@ -42,7 +42,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
   
       ![image](https://user-images.githubusercontent.com/103921593/192942852-913550a9-fabe-4a55-b956-0487b18bbd97.png)
 
-
 # Experiment :
 
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
@@ -72,8 +71,6 @@ print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var) 
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
-
-
 # Output : 
 ![Screenshot 2023-11-06 152751](https://github.com/Balachandran143/Mean-and-Variance/assets/118886489/92f32906-0db0-40e1-abf1-b5869d557a00)
 
